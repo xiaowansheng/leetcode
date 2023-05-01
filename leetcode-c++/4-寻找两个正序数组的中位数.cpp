@@ -40,7 +40,7 @@ public:
     }
 
 };
-int main()
+int main4()
 {
     vector<int> a= { 1,2,3 };
     vector<int> b = { 1,3,4 };

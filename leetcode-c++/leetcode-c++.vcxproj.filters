@@ -45,5 +45,17 @@
     <ClCompile Include="4-寻找两个正序数组的中位数.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="88-合并两个有序数组.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="27-移除元素.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="26-删除有序数组中的重复项.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="80-删除有序数组中的重复项 II.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
